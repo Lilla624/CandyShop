@@ -15,123 +15,75 @@ interface fanta {
 export class fantaComponent {
   fanta: fanta[] = [
     {
-      nev: 'Jalapeño fanta',
-      image: './assets/fantaImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Fanta Berry 355ml',
+      image: './assets/fanta/Fanta Berry 355ml.jpg',
+      ar: 680,
       darab: 1
     },
     {
-      nev: 'BBQ ízű fanta',
-      image: './assets/fantaImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Fanta Fruit Twist 330ml',
+      image: './assets/fanta/Fanta Fruit Twist 330ml.jpg',
+      ar: 690,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Fanta Grape 355ml',
+      image: './assets/fanta/Fanta Grape 355ml.jpg',
+      ar: 680,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Fanta Strawberry 350ml',
+      image: './assets/fanta/Fanta Strawberry 350ml.jpg',
+      ar: 680,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Fanta Peach 355ml',
+      image: './assets/fanta/Fanta Peach 355ml.jpg',
+      ar: 680,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Fanta Strawberry Kiwi Soda 330ml',
+      image: './assets/fanta/Fanta Strawberry Kiwi Soda 330ml.jpg',
+      ar: 480,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/Steak.jpg',
-      ar: 600,
+      nev: 'Fanta Lemon Soda 330ml',
+      image: './assets/fanta/Fanta Lemon Soda 330ml.jpg',
+      ar: 480,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/Puff.jpg',
-      ar: 600,
+      nev: 'Fanta Exotic 330ml',
+      image: './assets/fanta/Fanta Exotic 330ml.jpg',
+      ar: 480,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Fanta Pineapple Soda 355ml',
+      image: './assets/fanta/Fanta Pineapple Soda 355ml.jpg',
+      ar: 680,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Fanta Lime 500ml',
+      image: './assets/fanta/Fanta Lime 500ml.jpg',
+      ar: 1280,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/HotPf.jpg',
-      ar: 600,
+      nev: 'Fanta Green Apple 185ml',
+      image: './assets/fanta/Fanta Green Apple 185ml.jpg',
+      ar: 1290,
       darab: 1
     },
     {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/HotCr.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/HotCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/Chipito.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/ChiliCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres fanta',
-      image: './assets/fantaImg/Beef.jpg',
-      ar: 600,
+      nev: 'Chinese Fanta White Peach 330ml',
+      image: './assets/fanta/Chinese Fanta White Peach 330ml.jpg',
+      ar: 790,
       darab: 1
     }
   ];

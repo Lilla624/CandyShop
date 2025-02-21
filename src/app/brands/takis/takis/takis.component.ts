@@ -15,123 +15,75 @@ interface takis {
 export class takisComponent {
   takis: takis[] = [
     {
-      nev: 'Jalapeño takis',
-      image: './assets/takisImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Takis Blue Heat Spicy Mexican Chips 92g',
+      image: './assets/takis/Takis Blue Heat Spicy Mexican Chips 92g.jpg',
+      ar: 1990,
       darab: 1
     },
     {
-      nev: 'BBQ ízű takis',
-      image: './assets/takisImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Takis Guacamole Mexico 70g',
+      image: './assets/takis/Takis Guacamole Mexico 70g.jpg',
+      ar: 1390,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Takis Queso Volcano Chips 90g',
+      image: './assets/takis/Takis Queso Volcano Chips 90g.jpg',
+      ar: 1690,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Takis Fuego Hot Chips 90g',
+      image: './assets/takis/Takis Fuego Hot Chips 90g.jpg',
+      ar: 1690,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Takis Nitro 113g',
+      image: './assets/takis/Takis Nitro 113g.jpg',
+      ar: 1990,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Takis Crunchy Fajita 92g',
+      image: './assets/takis/Takis Crunchy Fajita 92g.jpg',
+      ar: 2363,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/Steak.jpg',
-      ar: 600,
+      nev: 'Takis Dragon Sweet Chili 90g',
+      image: './assets/takis/Takis Dragon Sweet Chili 90g.jpg',
+      ar: 1990,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/Puff.jpg',
-      ar: 600,
+      nev: 'Takis Intense Nacho 92g',
+      image: './assets/takis/Takis Intense Nacho 92g.jpg',
+      ar: 2190,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Takis Zombie 92g',
+      image: './assets/takis/Takis Zombie 92g.jpg',
+      ar: 1990,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Takis Waves Fuego 190g',
+      image: './assets/takis/Takis Waves Fuego 190g.jpg',
+      ar: 1473,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/HotPf.jpg',
-      ar: 600,
+      nev: 'Takis Hot Nuts Fuego 90g',
+      image: './assets/takis/Takis Hot Nuts Fuego 90g.jpg',
+      ar: 1490,
       darab: 1
     },
     {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/HotCr.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/HotCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/Chipito.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/ChiliCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres takis',
-      image: './assets/takisImg/Beef.jpg',
-      ar: 600,
+      nev: 'Takis Stix Fuego 280g',
+      image: './assets/takis/Takis Stix Fuego 280g.jpg',
+      ar: 1513,
       darab: 1
     }
   ];

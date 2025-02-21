@@ -15,15 +15,15 @@ interface pringles {
 export class pringlesComponent {
   pringles: pringles[] = [
     {
-      nev: 'Jalapeño pringles',
-      image: './assets/pringlesImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Pringles Texas BBQ Sauce 165g',
+      image: './assets/pringles/Pringles Texas BBQ Sauce 165g.jpg',
+      ar: 1049,
       darab: 1
     },
     {
-      nev: 'BBQ ízű pringles',
-      image: './assets/pringlesImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Pringles Paprika 130g',
+      image: './assets/pringles/Pringles Paprika 130g.jpg',
+      ar: 1049,
       darab: 1
     },
     {

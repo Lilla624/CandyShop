@@ -15,123 +15,75 @@ interface ghost {
 export class ghostComponent {
   ghost: ghost[] = [
     {
-      nev: 'Jalapeño ghost',
-      image: './assets/ghostImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Ghost Hydration Drink Sour Patch Kids 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Sour Patch Kids 500ml.jpg',
+      ar: 2990,
       darab: 1
     },
     {
-      nev: 'BBQ ízű ghost',
-      image: './assets/ghostImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Ghost Hydration Drink Orange Squeeze 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Orange Squeeze 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Kiwi Strawberry 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Kiwi Strawberry 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Lemon Lime 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Lemon Lime 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Blue Raspberry 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Blue Raspberry 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Lemon Crush 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Lemon Crush 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/Steak.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Tropical Mango 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Tropical Mango 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/Puff.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Cherry Limeade 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Cherry Limeade 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Citrus 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Citrus 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Orange Cream 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Orange Cream 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/HotPf.jpg',
-      ar: 600,
+      nev: 'Ghost Hydration Drink Sour Pink Lemonade 500ml',
+      image: './assets/ghost/Ghost Hydration Drink Sour Pink Lemonade 500ml.jpg',
+      ar: 7411,
       darab: 1
     },
     {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/HotCr.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/HotCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/Chipito.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/ChiliCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres ghost',
-      image: './assets/ghostImg/Beef.jpg',
-      ar: 600,
+      nev: 'Ghost Energy Drink, Warheads Sour Watermelon 500ml',
+      image: './assets/ghost/Ghost Energy Drink, Warheads Sour Watermelon 500ml.jpg',
+      ar: 7411,
       darab: 1
     }
   ];

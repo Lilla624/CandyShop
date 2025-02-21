@@ -15,122 +15,122 @@ interface Arizona {
 export class ArizonaComponent {
   arizona: Arizona[] = [
     {
-      nev: 'Jalapeño arizona',
-      image: './assets/arizonaImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Arizona Marvel LXR Hero Hydration Lemon Lime 473ml',
+      image: './assets/arizona/Arizona Marvel LXR Hero Hydration Lemon Lime 473ml.jpg',
+      ar: 2200,
       darab: 1
     },
     {
-      nev: 'BBQ ízű arizona',
-      image: './assets/arizonaImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Arizona Marvel LXR Hero Hydration Peach Mango 473ml',
+      image: './assets/arizona/Arizona Marvel LXR Hero Hydration Peach Mango 473ml.jpg',
+      ar: 2200,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/TKNitro.jpg',
+      nev: 'Arizona Cherry Lime Rickey 650ml',
+      image: './assets/arizona/Arizona Cherry Lime Rickey 650ml.jpg',
+      ar: 990,
+      darab: 1
+    },
+    {
+      nev: 'Arizona Frost Chillzicle 650ml',
+      image: './assets/arizona/Arizona Frost Chillzicle 650ml.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/TKFajita.jpg',
+      image: './assets/arizona/TKChili.jpg',
+      ar: 990,
+      darab: 1
+    },
+    {
+      nev: 'Fűszeres arizona',
+      image: './assets/arizona/TKCheese.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/TKChili.jpg',
+      image: './assets/arizona/Steak.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/TKCheese.jpg',
+      image: './assets/arizona/Puff.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Steak.jpg',
+      image: './assets/arizona/PrPap.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Puff.jpg',
+      image: './assets/arizona/PrBBQ.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/PrPap.jpg',
+      image: './assets/arizona/HotPf.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/PrBBQ.jpg',
+      image: './assets/arizona/HotCr.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/HotPf.jpg',
+      image: './assets/arizona/HotCheese.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/HotCr.jpg',
+      image: './assets/arizona/Chipito.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/HotCheese.jpg',
+      image: './assets/arizona/ChiliCheese.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Chipito.jpg',
+      image: './assets/arizona/Chili.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/ChiliCheese.jpg',
+      image: './assets/arizona/Chedarpop.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Chili.jpg',
+      image: './assets/arizona/ChedarPf.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Chedarpop.jpg',
+      image: './assets/arizona/Chedar.jpg',
       ar: 600,
       darab: 1
     },
     {
       nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Beef.jpg',
+      image: './assets/arizona/Beef.jpg',
       ar: 600,
       darab: 1
     }

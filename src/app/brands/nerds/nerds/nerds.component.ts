@@ -15,123 +15,69 @@ interface nerds {
 export class nerdsComponent {
   nerds: nerds[] = [
     {
-      nev: 'Jalapeño nerds',
-      image: './assets/nerdsImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Nerds Gummy Clusters Very Berry 142g',
+      image: './assets/nerds/Nerds Gummy Clusters Very Berry 142g.jpg',
+      ar: 2190,
       darab: 1
     },
     {
-      nev: 'BBQ ízű nerds',
-      image: './assets/nerdsImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Nerds Gummy Clusters 141g',
+      image: './assets/nerds/Nerds Gummy Clusters 141g.jpg',
+      ar: 1990,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Nerds Gummy Clusters Theater Box 85g',
+      image: './assets/nerds/Nerds Gummy Clusters Theater Box 85g.jpg',
+      ar: 1490,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Nerds Candy Grape and Strawberry 142g',
+      image: './assets/nerds/Nerds Candy Grape and Strawberry 142g.jpg',
+      ar: 1490,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Nerds Gummy Clusters Very Berry Share Pouch 85g',
+      image: './assets/nerds/Nerds Gummy Clusters Very Berry Share Pouch 85g.jpg',
+      ar: 1690,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Nerds Big Chewy Theater Box 120g',
+      image: './assets/nerds/Nerds Big Chewy Theater Box 120g.jpg',
+      ar: 1430,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/Steak.jpg',
-      ar: 600,
+      nev: 'Nerds Frosty Fruit Candy 141g',
+      image: './assets/nerds/Nerds Frosty Fruit Candy 141g.jpg',
+      ar: 1690,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/Puff.jpg',
-      ar: 600,
+      nev: 'Wonka Nerds Grape And Strawberry 47g',
+      image: './assets/nerds/Wonka Nerds Grape And Strawberry 47g.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Nerds Fruits Candy 142g',
+      image: './assets/nerds/Nerds Fruits Candy 142g.jpg',
+      ar: 1490,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Nerds Watermelon And Cherry 47g',
+      image: './assets/nerds/Nerds Watermelon And Cherry 47g.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/HotPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/HotCr.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/HotCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/Chipito.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/ChiliCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres nerds',
-      image: './assets/nerdsImg/Beef.jpg',
-      ar: 600,
+      nev: 'Wonka Nerds Rope Rainbow Candy 26g',
+      image: './assets/nerds/Wonka Nerds Rope Rainbow Candy 26g.jpg',
+      ar: 990,
       darab: 1
     }
   ];

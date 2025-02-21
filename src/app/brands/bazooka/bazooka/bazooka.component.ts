@@ -15,123 +15,75 @@ interface bazooka {
 export class bazookaComponent {
   bazooka: bazooka[] = [
     {
-      nev: 'Jalapeño bazooka',
-      image: './assets/bazookaImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Bazooka Rattlerz Sour Chewy Candy 40g',
+      image: './assets/bazooka/Bazooka Rattlerz Sour Chewy Candy 40g.jpg',
+      ar: 563,
       darab: 1
     },
     {
-      nev: 'BBQ ízű bazooka',
-      image: './assets/bazookaImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Bazooka Rattlerz Melting Fruity Candy 40g',
+      image: './assets/bazooka/Bazooka Rattlerz Melting Fruity Candy 40g.jpg',
+      ar: 563,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Bazooka Rattlerz Fruity Share Bag 100g',
+      image: './assets/bazooka/Bazooka Rattlerz Fruity Share Bag 100g.jpg',
+      ar: 1133,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Bazooka Rattlerz Sour Share Bag 120g',
+      image: './assets/bazooka/Bazooka Rattlerz Sour Share Bag 120g.jpg',
+      ar: 1133,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Bazooka Rattlerz Fruity Bag 40g',
+      image: './assets/bazooka/Bazooka Rattlerz Fruity Bag 40g.jpg',
+      ar: 304,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Bazooka Rattlerz Fruity Chewy Candies 120g',
+      image: './assets/bazooka/Bazooka Rattlerz Fruity Chewy Candies 120g.jpg',
+      ar: 1133,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/Steak.jpg',
-      ar: 600,
+      nev: 'Bazooka Rattlerz Sour Chewy Candies 120g',
+      image: './assets/bazooka/Bazooka Rattlerz Sour Chewy Candies 120g.jpg',
+      ar: 1133,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/Puff.jpg',
-      ar: 600,
+      nev: 'Bazooka Rattlerz Fruity 12x120g',
+      image: './assets/bazooka/Bazooka Rattlerz Fruity 12x120g.jpg',
+      ar: 4100,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Bazooka Rattlerz Fruity Chewy Candy 10x18g',
+      image: './assets/bazooka/Bazooka Rattlerz Fruity Chewy Candy 10x18g.jpg',
+      ar: 1200,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Bazooka Juicy Drop Pop 26g',
+      image: './assets/bazooka/Bazooka Juicy Drop Pop 26g.jpg',
+      ar: 950,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/HotPf.jpg',
-      ar: 600,
+      nev: 'Bazooka Push Pop 15g',
+      image: './assets/bazooka/Bazooka Push Pop 15g.jpg',
+      ar: 490,
       darab: 1
     },
     {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/HotCr.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/HotCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/Chipito.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/ChiliCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres bazooka',
-      image: './assets/bazookaImg/Beef.jpg',
-      ar: 600,
+      nev: 'Bazooka Ring Pop 15g',
+      image: './assets/bazooka/Bazooka Ring Pop 15g.jpg',
+      ar: 390,
       darab: 1
     }
   ];

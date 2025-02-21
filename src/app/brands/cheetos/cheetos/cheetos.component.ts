@@ -15,123 +15,93 @@ interface cheetos {
 export class cheetosComponent {
   cheetos: cheetos[] = [
     {
-      nev: 'Jalapeño cheetos',
-      image: './assets/cheetosImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Cheetos Mac and Cheese Jalapeño 164g',
+      image: './assets/cheetos/Cheetos Mac and Cheese Jalapeño 164g.jpg',
+      ar: 2490,
       darab: 1
     },
     {
-      nev: 'BBQ ízű cheetos',
-      image: './assets/cheetosImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Cheetos Mac and Cheese Four Cheesy 170g',
+      image: './assets/cheetos/Cheetos Mac and Cheese Four Cheesy 170g.jpg',
+      ar: 2690,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Cheetos Japan Steak Flavor Chips 90g',
+      image: './assets/cheetos/Cheetos Japan Steak Flavor Chips 90g.jpg',
+      ar: 1690,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Cheetos Crunchy Cheddar Jalapeño Chips 226g',
+      image: './assets/cheetos/Cheetos Crunchy Cheddar Jalapeño Chips 226g.jpg',
+      ar: 1990,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Cheetos Flamin Hot Crunchy 226g',
+      image: './assets/cheetos/Cheetos Flamin Hot Crunchy 226g.jpg',
+      ar: 3490,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Cheetos Puffs 226g',
+      image: './assets/cheetos/Cheetos Puffs 226g.jpg',
+      ar: 3990,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/Steak.jpg',
-      ar: 600,
+      nev: 'Cheetos Flamin Hot Puffs 226g',
+      image: './assets/cheetos/Cheetos Flamin Hot Puffs 226g.jpg',
+      ar: 3490,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/Puff.jpg',
-      ar: 600,
+      nev: 'Cheetos Popcorn Cheddar 17g',
+      image: './assets/cheetos/Cheetos Popcorn Cheddar 17g.jpg',
+      ar: 3090,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Cheetos Simply Puffs White Cheddar 70g',
+      image: './assets/cheetos/Cheetos Simply Puffs White Cheddar 70g.jpg',
+      ar: 4090,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Cheetos Fantastix Chili Cheese 28g',
+      image: './assets/cheetos/Cheetos Fantastix Chili Cheese 28g.jpg',
+      ar: 3250,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/HotPf.jpg',
-      ar: 600,
+      nev: 'Cheetos Big Chipito Sweet Chilli flavour 100g',
+      image: './assets/cheetos/Cheetos Big Chipito Sweet Chilli flavour 100g.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/HotCr.jpg',
-      ar: 600,
+      nev: 'Cheetos Crunchetos Sweet Chili flavour 110g',
+      image: './assets/cheetos/Cheetos Crunchetos Sweet Chili flavour 110g.jpg',
+      ar: 240,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/HotCheese.jpg',
-      ar: 600,
+      nev: 'Cheetos Crunchy Xxtra Flamin Hot Cheese Flavored 240g',
+      image: './assets/cheetos/Cheetos Crunchy Xxtra Flamin Hot Cheese Flavored 240g.jpg',
+      ar: 7380,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/Chipito.jpg',
-      ar: 600,
+      nev: 'Cheetos Beef and Onions Flavor 40g',
+      image: './assets/cheetos/Cheetos Beef and Onions Flavor 40g.jpg',
+      ar: 2330,
       darab: 1
     },
     {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/ChiliCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres cheetos',
-      image: './assets/cheetosImg/Beef.jpg',
-      ar: 600,
+      nev: 'Cheetos Big Chipito Sweet Chilli flavour 100g',
+      image: './assets/cheetos/Cheetos Big Chipito Sweet Chilli flavour 100g.jpg',
+      ar: 990,
       darab: 1
     }
   ];

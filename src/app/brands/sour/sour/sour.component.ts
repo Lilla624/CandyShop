@@ -15,123 +15,111 @@ interface sour {
 export class sourComponent {
   sour: sour[] = [
     {
-      nev: 'Jalapeño sour',
-      image: './assets/sourImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Sour Patch Kids Strawberry 102g',
+      image: './assets/sour/Sour Patch Kids Strawberry 102g.jpg',
+      ar: 1290,
       darab: 1
     },
     {
-      nev: 'BBQ ízű sour',
-      image: './assets/sourImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Sour Patch Kids Cola Flavor 130g',
+      image: './assets/sour/Sour Patch Kids Cola Flavor 130g.jpg',
+      ar: 1390,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Blue Raspberry 102g',
+      image: './assets/sour/Sour Patch Kids Blue Raspberry 102g.jpg',
+      ar: 1190,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Lemonade Fest 102g',
+      image: './assets/sour/Sour Patch Kids Lemonade Fest 102g.jpg',
+      ar: 1390,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids 99g',
+      image: './assets/sour/Sour Patch Kids 99g.jpg',
+      ar: 1290,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Extreme 99g',
+      image: './assets/sour/Sour Patch Kids Extreme 99g.jpg',
+      ar: 1290,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/Steak.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Candy Family Size 816g',
+      image: './assets/sour/Sour Patch Kids Candy Family Size 816g.jpg',
+      ar: 6990,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/Puff.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Watermelon 130g',
+      image: './assets/sour/Sour Patch Kids Watermelon 130g.jpg',
+      ar: 1790,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Peach 102g',
+      image: './assets/sour/Sour Patch Kids Peach 102g.jpg',
+      ar: 1190,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Red White & Blue 87g',
+      image: './assets/sour/Sour Patch Kids Red White & Blue 87g.jpg',
+      ar: 1290,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/HotPf.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Christmas 88g',
+      image: './assets/sour/Sour Patch Kids Christmas 88g.jpg',
+      ar: 1690,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/HotCr.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Fruit Mix 130g',
+      image: './assets/sour/Sour Patch Kids Fruit Mix 130g.jpg',
+      ar: 1490,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/HotCheese.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Black Raspberry Sour Hearts 87g',
+      image: './assets/sour/Sour Patch Kids Black Raspberry Sour Hearts 87g.jpg',
+      ar: 1290,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/Chipito.jpg',
-      ar: 600,
+      nev: 'Sour Patch Kids Original 130g',
+      image: './assets/sour/Sour Patch Kids Original 130g.jpg',
+      ar: 1490,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/ChiliCheese.jpg',
-      ar: 600,
+      nev: 'Sour Punch Bites Strawberry, Green Apple & Blue Raspberry Sour Gummy Candy 105g',
+      image: './assets/sour/Sour Punch Bites Strawberry, Green Apple & Blue Raspberry Sour Gummy Candy 105g.jpg',
+      ar: 1090,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/Chili.jpg',
-      ar: 600,
+      nev: 'Sour Punch Bites Rad Reds Fruity Gummy Candy 142g',
+      image: './assets/sour/Sour Punch Bites Rad Reds Fruity Gummy Candy 142g.jpg',
+      ar: 1390,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/Chedarpop.jpg',
-      ar: 600,
+      nev: 'Sour Punch Mini Bites Fruit-Flavored Sour Gummy Candy 56g',
+      image: './assets/sour/Sour Punch Mini Bites Fruit-Flavored Sour Gummy Candy 56g.jpg',
+      ar: 1090,
       darab: 1
     },
     {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres sour',
-      image: './assets/sourImg/Beef.jpg',
-      ar: 600,
+      nev: 'Sour Punch Bites Blue Raspberry Sour Gummy Candy 105g',
+      image: './assets/sour/Sour Punch Bites Blue Raspberry Sour Gummy Candy 105g.jpg',
+      ar: 1190,
       darab: 1
     }
   ];

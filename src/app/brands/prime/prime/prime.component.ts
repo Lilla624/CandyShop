@@ -15,123 +15,99 @@ interface prime {
 export class primeComponent {
   prime: prime[] = [
     {
-      nev: 'Jalapeño prime',
-      image: './assets/primeImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Prime Hydration Drink Glowberry 500ml',
+      image: './assets/prime/Prime Hydration Drink Glowberry 500ml.jpg',
+      ar: 3990,
       darab: 1
     },
     {
-      nev: 'BBQ ízű prime',
-      image: './assets/primeImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Prime Hydration Drink Strawberry Watermelon 500ml',
+      image: './assets/prime/Prime Hydration Drink Strawberry Watermelon 500ml.jpg',
+      ar: 1490,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Ice Pop 500ml',
+      image: './assets/prime/Prime Hydration Drink Ice Pop 500ml.jpg',
+      ar: 1790,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Blue Raspberry 500ml',
+      image: './assets/prime/Prime Hydration Drink Blue Raspberry 500ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Lemon Lime 500ml',
+      image: './assets/prime/Prime Hydration Drink Lemon Lime 500ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Grape 500ml',
+      image: './assets/prime/Prime Hydration Drink Grape 500ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/Steak.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink UFC 300 500ml',
+      image: './assets/prime/Prime Hydration Drink UFC 300 500ml.jpg',
+      ar: 4990,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/Puff.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Strawberry Banana 500ml',
+      image: './assets/prime/Prime Hydration Drink Strawberry Banana 500ml.jpg',
+      ar: 4990,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Auston Matthews 500ml',
+      image: './assets/prime/Prime Hydration Drink Auston Matthews 500ml.jpg',
+      ar: 3990,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink WWE 500ml',
+      image: './assets/prime/Prime Hydration Drink WWE 500ml.jpg',
+      ar: 3790,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/HotPf.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Toronto Raptors Black 500ml',
+      image: './assets/prime/Prime Hydration Drink Toronto Raptors Black 500ml.jpg',
+      ar: 3990,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/HotCr.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Central Cee 500ml',
+      image: './assets/prime/Prime Hydration Drink Central Cee 500ml.jpg',
+      ar: 3490,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/HotCheese.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink LAKERS 500ml',
+      image: './assets/prime/Prime Hydration Drink LAKERS 500ml.jpg',
+      ar: 4590,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/Chipito.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Kevin Durant 500ml',
+      image: './assets/prime/Prime Hydration Drink Kevin Durant 500ml.jpg',
+      ar: 4590,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/ChiliCheese.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Barcelona 500ml',
+      image: './assets/prime/Prime Hydration Drink Barcelona 500ml.jpg',
+      ar: 3490,
       darab: 1
     },
     {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres prime',
-      image: './assets/primeImg/Beef.jpg',
-      ar: 600,
+      nev: 'Prime Hydration Drink Meta Moon 500ml',
+      image: './assets/prime/Prime Hydration Drink Meta Moon 500ml.jpg',
+      ar: 1790,
       darab: 1
     }
   ];
